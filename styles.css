@@ -1,0 +1,22 @@
+/*Element selector、tag or type selector*/
+p,h1 {
+    color: green;
+}
+button {
+    padding: 10px 20px;
+    font-size: 18px;
+    color: goldenrod;
+}
+html {
+    font-family: Arial;
+}
+  
+
+/* ID selector */
+#myParagraph { 
+    color: blue;
+    font-size: 24px;
+}
+
+
+
